@@ -2,6 +2,8 @@ This is solution modern frame for development website from scretch uses last ver
 
 <a href="http://owners2.azurewebsites.net">http://owners2.azurewebsites.net</a>
 
+This solution devlopment for ASP.Net framework and there is the same project for framework ASP.Net Core 2.0, you can download it <a href="https://github.com/11BREATH11/ASP.NET_Core_Web.API_Example">here</a>,
+
 For authentication uses OAuth Bearer Token and implements Refresh Tokens. 
 The backend API is built using ASP.NET Web API, OWIN middleware, ASP.NET Identity and Entity Framework.
 
